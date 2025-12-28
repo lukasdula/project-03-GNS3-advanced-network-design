@@ -782,5 +782,5 @@ External access is enabled using a static default route and NAT with PAT for int
 <br>
 
 
-**Next chapter:**
+**Next chapter:** [Core Services and Monitoring](06-core-services-and-monitoring.md)
 
