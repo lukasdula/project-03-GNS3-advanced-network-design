@@ -448,7 +448,7 @@ With Layer 3 connectivity confirmed and all core devices reachable, the network 
 <br>
 
 
-Next chapter: 
+**Next chapter:** [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
 
 
 
