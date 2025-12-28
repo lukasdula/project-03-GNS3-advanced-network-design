@@ -51,21 +51,21 @@ The network is divided into clear functional zones:
 
 ## **Project Structure**
 
-1. Network Topology and Devices
+1. [Network Topology and Devices](01-network-topology-and-devices.md)
     
-2. Addressing and VLAN Planning
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
     
-3. Basic Device Configuration
+3. [Basic Device Configuration](03-basic-device-configuration.md)
     
-4. Switching and VLAN Configuration
+4. [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
     
-5. Routing, VRRP, and Internet Connectivity
+5. [Routing, VRRP, and Internet Connectivity](05-routing-vrrp-and-internet-connectivity.md)
     
-6. Core Services and Monitoring
+6. [Core Services and Monitoring](06-core-services-and-monitoring.md)
     
-7. VRRP Failover Testing and Troubleshooting
+7. [VRRP Failover Testing and Troubleshooting](07-VRRP-failover-testing-and-troubleshooting.md)
     
-8. Conclusion and Summary
+8. [Conclusion and Summary](08-conclusion-and-summary.md)
     
 
 <br>
