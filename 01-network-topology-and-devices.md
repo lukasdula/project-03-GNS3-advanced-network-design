@@ -114,4 +114,4 @@ The next chapter focuses on IP addressing and VLAN planning. It defines VLAN rol
 <br>
 
 
-**Next chapter:**
+**Next chapter:**[Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)
