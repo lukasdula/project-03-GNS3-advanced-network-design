@@ -496,7 +496,7 @@ The next and final chapter closes the project and gives a clear overview of the 
 <br>
 
 
-**Final chapter:** 
+**Final chapter:** [Conclusion and Summary](08-conclusion-and-summary.md)
 
 
 
