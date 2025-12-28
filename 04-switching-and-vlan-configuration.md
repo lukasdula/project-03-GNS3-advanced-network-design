@@ -612,4 +612,4 @@ Link aggregation between the distribution switches improves **reliability** and 
 
 <br>
 
-**Next chapter:**
+**Next chapter:** [Routing, VRRP, and Internet Connectivity](05-routing-vrrp-and-internet-connectivity.md)
