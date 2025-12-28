@@ -70,7 +70,7 @@ Virtual IP addresses are used as default gateways on redundant routing devices t
 
 <br>
 
-**Next chapter:**
+**Next chapter:** [Basic Device Configuration](03-basic-device-configuration.md)
 
 
 
