@@ -629,4 +629,4 @@ The next chapter focuses on testing VRRP failover behavior during router outages
 <br>
 
 
-**Next chapter:**
+**Next chapter:** [VRRP Failover Testing and Troubleshooting](07-VRRP-failover-testing-and-troubleshooting.md)
