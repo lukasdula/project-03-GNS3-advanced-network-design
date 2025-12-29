@@ -131,7 +131,7 @@ In this project, I focused on building a network design that remains operational
 
 This project also includes my first use of LACP, which helped me understand link redundancy and its role in improving network availability. A stronger focus was placed on physical topology choices and their impact on overall network design.
 
-Security was intentionally left out of this project. The primary focus was on redundancy, VRRP, routing design, and practical implementation rather than security features.
+Security was not included in this project. The primary focus was on redundancy, VRRP, routing design, and practical implementation rather than security features.
 
 Monitoring network traffic with Wireshark added valuable insight into how the network operates beyond configuration. Together with the previous two projects, this work provided a solid foundation and practical experience, allowing me to move forward toward a larger enterprise-style project that combines features from all earlier designs.
 
