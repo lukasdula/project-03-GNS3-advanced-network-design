@@ -185,7 +185,7 @@ Action:
 
 ### **Network Topology After R1 Shutdown**
 
-![](images/Pasted%20image%2020251228171228.png)
+![](images/Pasted%20image%2020251229183922.png)
 
 
 
