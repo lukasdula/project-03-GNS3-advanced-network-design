@@ -24,25 +24,25 @@ VRRP failover testing verifies correct gateway behavior during router failure. D
 
 ## **Project Overview**
 
-1. **Network Topology and Devices**  
+1. [Network Topology and Devices](01-network-topology-and-devices.md)
     The network is designed with two core routers, multiple access and distribution switches, an internal server, an administrative workstation, and user endpoints. The topology supports redundancy and clear separation of infrastructure, management, and user roles.
     
-2. **Addressing and VLAN Planning**  
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md) 
     IPv4 addressing and VLAN segmentation define separate networks for servers, administration, users, management, and routed links. Different subnet mask sizes are selected based on network purpose and scalability requirements, ensuring efficient address usage and clear network structure.
     
-3. **Basic Device Configuration**  
+3. [Basic Device Configuration](03-basic-device-configuration.md) 
     Core configuration establishes hostnames, interface addressing, port descriptions, and baseline administrative settings required for stable network operation and clear documentation.
     
-4. **Switching and VLAN Configuration**  
+4. [Switching and VLAN Configuration](04-switching-and-vlan-configuration.md)
     VLANs are created on all switches, access and trunk ports are assigned, and redundancy is implemented at the distribution layer. Rapid Spanning Tree Protocol, PortFast, BPDU Guard, and LACP are applied to prevent loops, protect access ports, and provide resilient Layer 2 connectivity.
     
-5. **Routing, VRRP, and Internet Connectivity**  
+5. [Routing, VRRP, and Internet Connectivity](05-routing-vrrp-and-internet-connectivity.md) 
     Inter-VLAN routing is implemented on both routers using 802.1Q subinterfaces. OSPF provides dynamic routing with loopback interfaces as stable router identifiers. NAT/PAT enables Internet access, and VRRP delivers default gateway redundancy across all VLANs.
     
-6. **Core Services and Monitoring**  
+6. [Core Services and Monitoring](06-core-services-and-monitoring.md)  
     Centralized DHCP, NTP, and SSH services are deployed on the Xubuntu Server. Wireshark monitoring validates routing behavior, protocol operation, and address translation under normal operating conditions.
     
-7. **VRRP Failover Testing** and Troubleshooting
+7. [VRRP Failover Testing and Troubleshooting](07-VRRP-failover-testing-and-troubleshooting.md)
     Failover testing verifies gateway behavior when the active router R1 becomes unavailable and the backup router R2 takes over the master role. A NAT/PAT issue observed during failover is identified and resolved, confirming that VRRP, NAT/PAT, and routing continue to operate correctly.
     
 
