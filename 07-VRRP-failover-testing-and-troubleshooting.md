@@ -97,6 +97,8 @@ VRRP operation is observed using the native Wireshark capture feature in GNS3. P
 
 **Link capture between R1 and SW1:**
 
+![](images/Pasted%20image%2020251229183520.png)
+
 ```prikaz
 vrrp
 ```
