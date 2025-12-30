@@ -69,10 +69,10 @@ This section describes the main parts of the topology and their roles.
 
 | **Device**       | **Image / Type** |     **Interfaces** | **Access** | **Purpose**                                                               |
 | ---------------- | ---------------- | -----------------: | ---------- | ------------------------------------------------------------------------- |
-| Router R1        | Cisco IOSv       | 6x GigabitEthernet | Telnet     | Primary routing device; inter-VLAN routing; uplink to ISP; VRRP.          |
-| Router R2        | Cisco IOSv       | 6x GigabitEthernet | Telnet     | Secondary routing device; inter-VLAN routing backup; VRRP; uplink to ISP. |
-| ISP Router       | Cisco IOSv       | 6x GigabitEthernet | Telnet     | Simulated upstream router and Internet access.                            |
-| Switches SW1-SW4 | Cisco IOSv-L2    | 4x GigabitEthernet | Telnet     | Layer 2 switching; VLANs; trunk links; redundant paths.                   |
+| Router R1        | Cisco IOSv       | 6x GigabitEthernet | Console    | Primary routing device; inter-VLAN routing; uplink to ISP; VRRP.          |
+| Router R2        | Cisco IOSv       | 6x GigabitEthernet | Console    | Secondary routing device; inter-VLAN routing backup; VRRP; uplink to ISP. |
+| ISP Router       | Cisco IOSv       | 6x GigabitEthernet | Console    | Simulated upstream router and Internet access.                            |
+| Switches SW1-SW4 | Cisco IOSv-L2    | 4x GigabitEthernet | Console    | Layer 2 switching; VLANs; trunk links; redundant paths.                   |
 | Xubuntu-Server   | QEMU Xubuntu VM  | 1x GigabitEthernet | VNC        | Internal server for basic services (DHCP).                                |
 | Xubuntu-Admin    | QEMU Xubuntu VM  | 1x GigabitEthernet | VNC        | Administration workstation for network management.                        |
 | Office PC        | VPCS             |        1x Ethernet | Console    | Client device in the Office VLAN.                                         |
