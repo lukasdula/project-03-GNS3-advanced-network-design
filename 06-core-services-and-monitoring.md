@@ -408,6 +408,14 @@ write
 
 #### **Verification**
 
+#### NTP Traffic Monitoring on R2
+
+The capture shows correct NTP communication in the network.  
+R2 synchronizes time with the internal NTP server using NTP version 4.  
+NTP packets are exchanged regularly, which confirms stable time synchronization. Accurate time helps ensure correct logs and reliable network operation.
+
+![](images/Pasted%20image%2020251230045340.png)
+
 ```plaintext
 show ntp status
 show clock
