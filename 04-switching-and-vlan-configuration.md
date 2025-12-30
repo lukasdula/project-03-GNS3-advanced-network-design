@@ -10,7 +10,7 @@
 
 This chapter defines the Layer 2 switching configuration for the advanced redundant network design. VLANs are used to separate the network into logical segments and to control Layer 2 traffic in a clear and predictable way.
 
-The switching layer is prepared for redundancy. Trunk links are configured on both sides of the network so that all VLANs remain available even if one link or routing device fails. This design supports traffic continuity and prepares the network for later gateway redundancy testing.
+The switching layer is prepared for redundancy. Trunk links are configured on both sides of the network so that all VLANs remain available even if one link or routing device fails. To further demonstrate Layer 2 resilience and stable inter-switch forwarding, link aggregation using LACP is implemented between the distribution switches, combining multiple physical links into a single logical connection.
 
 Access ports are assigned to end devices according to the VLAN plan. Trunk ports carry all required VLANs, including the management VLAN 99, across the entire switching infrastructure. Access ports are additionally protected using PortFast and BPDU Guard to ensure fast host connectivity and to prevent Layer 2 loops caused by incorrect device connections.
 
