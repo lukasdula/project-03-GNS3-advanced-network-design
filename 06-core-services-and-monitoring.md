@@ -28,7 +28,7 @@ The chapter also demonstrates secure management access using SSH from the Xubunt
     
 2. Configure NTP on the Xubuntu Server and configure NTP clients on routers and switches.
     
-3. Enable SSH management access from Xubuntu Admin to switches and routers.
+3. Enable SSH management access from router to switch 
     
 4. Monitor selected network protocols (ARP, OSPF, NAT/PAT) using Wireshark.
 
