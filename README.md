@@ -5,7 +5,7 @@
 ## **Introduction and Objectives**
 
 
-**Cisco-based advanced routed and switched network built in GNS3** as part of a study portfolio. The main goal is to demonstrate network redundancy, availability, and resistance to network failures in a realistic Layer 2 and Layer 3 design.
+Cisco-based advanced routed and switched network built in GNS3 as part of a study portfolio. The main goal is to demonstrate network redundancy, availability, and resistance to network failures in a realistic Layer 2 and Layer 3 design.
 
 The network uses VLAN segmentation, inter-VLAN routing, dynamic routing with OSPF, and gateway redundancy with VRRP to ensure continuous connectivity during router failures. Redundant links are implemented using LACP, and Rapid Spanning Tree mechanisms protect the switching layer. Centralized services such as DHCP and NTP (Chrony on Xubuntu) support stable network operation and verification.
 
