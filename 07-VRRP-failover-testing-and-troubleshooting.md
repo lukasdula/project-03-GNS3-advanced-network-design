@@ -255,7 +255,7 @@ VRRP failover operates as designed. When Router R1 is powered off, Router R2 aut
 ## **7.7 NAT/PAT Troubleshooting – Internal VLAN Traffic Does Not Reach the Internet**
 
 
-During the implementation of NAT/PAT in this project, an unexpected connectivity issue was encountered. After completing the configuration, internal VLANs were unable to reach the Internet host. This problem occurred during real project work and was identified and resolved through systematic troubleshooting.
+During the implementation of NAT/PAT in this project, an unexpected connectivity issue was found. After completing the configuration, internal VLANs were not able to reach the Internet host. This issue occurred during real project work and was identified and resolved through systematic troubleshooting.
 
 ### **1) Issue**
 
