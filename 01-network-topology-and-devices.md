@@ -18,6 +18,7 @@ The topology is built in layers, with routing devices at the top, distribution s
 
 Each chapter builds on the previous one and explains how this design improves availability and stability, ending with practical failover testing.
 
+>**Note.:** Due to limitations of Cisco virtual switch images in GNS3, the lab uses a reduced number of switch interfaces. This configuration logic is applied across the network.
 
 <br>
 
