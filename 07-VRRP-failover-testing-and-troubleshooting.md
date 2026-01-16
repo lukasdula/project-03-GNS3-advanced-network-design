@@ -9,7 +9,7 @@ Before any failure is tested, the chapter first confirms that VRRP operates corr
 
 During the implementation of this chapter, a single NAT/PAT-related issue is identified while configuring Internet connectivity. The issue arises during normal network configuration and is not intentionally simulated. A dedicated troubleshooting section is included as part of this chapter to document the analysis and resolution of this problem.
 
-In real networks, gateway redundancy is critical for availability. If one router fails, another router must immediately assume the gateway role so that users and services remain online. This chapter demonstrates that behavior by simulating a router failure and observing how the backup router automatically takes over the gateway role while the network remains operational.
+In real networks, gateway redundancy is critical for availability. If one router fails, another router must immediately take over the gateway role so that users and services remain online. This chapter demonstrates that behavior by simulating a router failure and observing how the backup router automatically takes over the gateway role while the network remains operational.
 
 <br>
 
