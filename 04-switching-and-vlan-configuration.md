@@ -20,7 +20,7 @@ This chapter focuses only on Layer 2 configuration. Inter-VLAN routing and virtu
 
 ## **4.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251224135629.png)
+![](images/Pasted%20image%2020260125075131.png)
 
 <br>
 
