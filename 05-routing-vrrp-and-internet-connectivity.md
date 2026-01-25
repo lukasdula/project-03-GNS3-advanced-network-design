@@ -17,7 +17,7 @@ Dynamic routing is configured using OSPF in area 0 to enable internal route exch
 
 ## **5.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251224220419.png)
+![](images/Pasted%20image%2020260125075340.png)
 
 <br>
 
