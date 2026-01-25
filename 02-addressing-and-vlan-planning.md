@@ -18,7 +18,7 @@ Default gateways for internal VLANs are provided using virtual IP addresses on r
 
 ## **2.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251216183044.png)
+![](images/Pasted%20image%2020260125074639.png)
 
 
 <br>
