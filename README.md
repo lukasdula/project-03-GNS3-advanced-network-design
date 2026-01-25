@@ -18,7 +18,7 @@ The topology uses a limited number of end-host VLANs for demonstration and desig
 
 ## **Topology Diagram**
 
-![](images/Pasted%20image%2020251228214908.png)
+![](images/Pasted%20image%2020260125073611.png)
 
 
 
