@@ -21,7 +21,7 @@ Interface descriptions are configured on all router and switch interfaces to cle
 ## **3.2 Topology Diagram**
 
 
-![](images/Pasted%20image%2020251220214739.png)
+![](images/Pasted%20image%2020260125074910.png)
 
 <br>
 
