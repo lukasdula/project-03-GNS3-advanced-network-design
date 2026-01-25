@@ -24,7 +24,7 @@ VRRP failover testing verifies correct gateway behavior during router failure. D
 
 ## **Topology Diagram**
 
-![](images/Pasted%20image%2020260125080307.png)
+![](images/Pasted%20image%2020260125080835.png)
 
 
 <br>
