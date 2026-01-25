@@ -24,7 +24,7 @@ Each chapter builds on the previous one and explains how this design improves av
 
 ## **1.2  Topology Diagram**
 
-![](images/Pasted%20image%2020260125074106.png)
+![](images/Pasted%20image%2020260125074216.png)
 
 
 <br>
