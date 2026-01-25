@@ -17,7 +17,7 @@ The chapter also demonstrates secure management access using SSH from the Xubunt
 
 ## **6.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251228030503.png)
+![](images/Pasted%20image%2020260125075645.png)
 
 <br>
 
