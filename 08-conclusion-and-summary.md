@@ -19,6 +19,13 @@ Core services are centralized on the Xubuntu Server. DHCP supplies dynamic IPv4 
 
 VRRP failover testing verifies correct gateway behavior during router failure. During this testing, a real NAT/PAT issue is identified and resolved through troubleshooting. The results confirm that routing, gateway redundancy, and address translation continue to operate correctly during simulated failures.
 
+<br>
+
+
+## **Topology Diagram**
+
+![](images/Pasted%20image%2020260125080307.png)
+
 
 <br>
 
