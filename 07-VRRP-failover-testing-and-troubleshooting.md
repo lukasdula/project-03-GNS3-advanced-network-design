@@ -15,7 +15,7 @@ In real networks, gateway redundancy is critical for availability. If one router
 
 ## **7.2 Topology Diagram**
 
-![](images/Pasted%20image%2020251228195632.png)
+![](images/Pasted%20image%2020260125080018.png)
 
 
 <br>
