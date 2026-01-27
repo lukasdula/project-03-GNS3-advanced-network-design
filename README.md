@@ -9,7 +9,7 @@ Cisco-based advanced routed and switched network built in GNS3 as part of a stud
 
 The network uses VLAN segmentation, inter-VLAN routing, dynamic routing with OSPF, and gateway redundancy with VRRP to ensure continuous connectivity during router failures. Redundant links are implemented using LACP, and Rapid Spanning Tree mechanisms protect the switching layer. Centralized services such as DHCP and NTP (Chrony on Xubuntu) support stable network operation and verification.
 
-Security mechanisms are intentionally kept limited in this project to keep the focus on routing, redundancy, and failover operation. Network security is addressed in a separate project.
+Security mechanisms are kept limited in this project to keep the focus on routing, redundancy, and failover operation. Network security is addressed in a separate project.
 
 The topology uses a limited number of end-host VLANs for demonstration and design purposes. The design prioritizes clear validation of routing logic, gateway redundancy, failover testing, and monitoring rather than full enterprise user simulation.
 
