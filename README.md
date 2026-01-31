@@ -72,30 +72,6 @@ The network is divided into clear functional zones:
 
 <br>
 
-## **Tools and Environment**
-
-- **GNS3 version 2.2.54**
-    
-- **Wireshark Version 4.2.2**
-    
-- **Xubuntu VM** (kernel-based QEMU virtual machine inside GNS3)
-    
-- **Cisco IOSv Router**
-    
-    - _VIOS-ADVENTERPRISEK9-M, Version 15.9(3)M6_
-        
-- **Cisco IOSv-L2 Switch**
-    
-    - _vios_l2-ADVENTERPRISEK9-M, Version 15.2(20170321)_
-        
-- **Visual Studio Code** (documentation editing)
-    
-- **Obsidian** (notes, summaries and screenshots)
-    
-
-
-<br>
-
 ## **Key Project Features**
 
 - VLAN segmentation with access and trunk ports
@@ -123,7 +99,29 @@ The network is divided into clear functional zones:
 - Controlled VRRP failover testing
     
 - Real troubleshooting of a NAT/PAT configuration issue
+  
+<br>
+
+## **Tools and Environment**
+
+- **GNS3 version 2.2.54**
     
+- **Wireshark Version 4.2.2**
+    
+- **Xubuntu VM** (kernel-based QEMU virtual machine inside GNS3)
+    
+- **Cisco IOSv Router**
+    
+    - _VIOS-ADVENTERPRISEK9-M, Version 15.9(3)M6_
+        
+- **Cisco IOSv-L2 Switch**
+    
+    - _vios_l2-ADVENTERPRISEK9-M, Version 15.2(20170321)_
+        
+- **Visual Studio Code** (documentation editing)
+    
+- **Obsidian** (notes, summaries and screenshots)
+        
 
 <br>
 
